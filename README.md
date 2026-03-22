@@ -34,13 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishsonipawai6-collab&show_icons=true&theme=radical)
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
----
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ashishsonipawai6-collab&theme=radical)
 ✨ "Keep Learning & Keep Growing"
