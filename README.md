@@ -28,8 +28,8 @@
 ---
 
 ## 📫 Connect with Me
-- Email: your-email@gmail.com
-- LinkedIn: your-linkedin-link
+- Email: ashishsonipawai6@gmail.com
+- LinkedIn: www.linkedin.com/in/ashishsoni9343
 
 ---
 
