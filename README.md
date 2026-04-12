@@ -20,13 +20,6 @@
 
 ---
 
-## 📂 Projects
-- 🔹 Calculator (Java)
-- 🔹 Student Management System
-- 🔹 AI Chatbot (Python)
-
----
-
 ## 📫 Connect with Me
 - Email: ashishsonipawai6@gmail.com
 - LinkedIn: www.linkedin.com/in/ashishsoni9343
